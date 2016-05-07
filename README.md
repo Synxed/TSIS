@@ -13,8 +13,13 @@ Tool Stores Inventory System or TSIS is a management software developed to assis
 ## Screenshots: 
 
 ![Mainform](http://i.imgur.com/jxAq9K4.png)
+
 ![MRN Generator](http://i.imgur.com/83A3VIm.png)
+
 ![Tools Allocation](http://i.imgur.com/ul9aMa9.png)
+
 ![Update Stock](http://i.imgur.com/TTiJtjE.png)
+
 ![Change Reorder Level](http://i.imgur.com/Bpq4Arg.png)
+
 ![Check Stock](http://i.imgur.com/Eq2aBAk.png)
