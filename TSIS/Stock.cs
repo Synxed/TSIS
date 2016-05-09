@@ -96,9 +96,8 @@ namespace TSIS
             int pliers = 0)
         {
             var currentStock = GetCurrentStock();
-            var connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"Database.accdb\"";
 
-            using (var connection = new OleDbConnection(connectionString))
+            using (var connection = new OleDbConnection(Resources.ConnectionString))
             {
                 connection.Open();
 
